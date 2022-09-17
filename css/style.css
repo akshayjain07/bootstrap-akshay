@@ -34,4 +34,7 @@ header nav .container-fluid form input{
 .image-container{
     display: flex;
     justify-content: space-around;
+    background-color: rgb(197, 186, 186);
+    height: 350px;
+    align-items: center;
 }
